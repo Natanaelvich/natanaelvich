@@ -1,16 +1,14 @@
-### Hi there 👋
+# Natanael Lima
+[![Twitter Badge](https://img.shields.io/badge/-@Natanaelvich-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fhugoduarte)](https://twitter.com/fhugoduarte) [![Linkedin Badge](https://img.shields.io/badge/-Natanael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-lima%F0%9F%9A%80%F0%9F%94%A5-2618b418b/)](https://www.linkedin.com/in/hugo-duarte-3392bb153/) 
+[![Gmail Badge](https://img.shields.io/badge/-taelima1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taelima1997@gmail.com)](mailto:taelima1997@gmail.com)
 
-<!--
-**Natanaelvich/natanaelvich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends
+🔥I'm Natanael Lima 🚀
+I'm a full stack developer :computer:
 
-Here are some ideas to get you started:
+- :rocket:   I’m currently working at **Ideias Tecnologias**
+- :purple_heart:   React Native
+- :computer:   ReactJS, Node, React Native, Typescript
+- 💬   Ask me about: tech, games, movies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=natanaelvich&show_icons=true" alt="natanaelvich" /> </p>
