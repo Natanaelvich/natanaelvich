@@ -11,4 +11,4 @@ I'm a full stack developer :computer:
 - :computer:   ReactJS, Node, React Native, Typescript
 - 💬   Ask me about: tech, games, movies
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=natanaelvich&show_icons=true" alt="natanaelvich" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=natanaelvich&show_icons=true&theme=radical" alt="natanaelvich" /> </p>
