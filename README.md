@@ -12,8 +12,8 @@ I'm a full stack developer :computer:
 - 💬   Ask me about: tech, games, movies
 
 <p align="left"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natanaelvich&repo=proffy-mobile&show_owner=true" alt="natanaelvich" /> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=natanaelvich&repo=picpay-ui-clone&show_owner=true" alt="natanaelvich" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natanaelvich&repo=proffy-mobile&show_owner=true&theme=dracula" alt="natanaelvich" /> 
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=natanaelvich&repo=picpay-ui-clone&show_owner=true&theme=dracula" alt="natanaelvich" />
 </p>
 
 <p align="left"> 
