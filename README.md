@@ -7,7 +7,7 @@
 I'm a full stack developer :computer:
 
 - :rocket:   I’m currently working at **Ideias Tecnologias**
-- :purple_heart:   React Native
+- :purple_heart:   React Native and ExpressJS
 - :computer:   ReactJS, Node, React Native, Typescript
 - 💬   Ask me about: tech, games, movies
 
