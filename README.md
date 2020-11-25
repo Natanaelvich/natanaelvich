@@ -16,7 +16,7 @@ I'm a full stack developer :computer:
 </p>
 
 <p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natanaelvich&repo=proffy-mobile&show_owner=true&theme=dracula" alt="natanaelvich" /> 
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natanaelvich&repo=college-integrator-project-mobile&show_owner=true&theme=dracula" alt="natanaelvich" /> 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=natanaelvich&repo=gobarber-mobile-v2&show_owner=true&theme=dracula" alt="natanaelvich" />
 </p>
 
