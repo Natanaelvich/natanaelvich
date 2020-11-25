@@ -6,7 +6,7 @@
 🔥I'm Natanael Lima 🚀⚡⚡
 I'm a full stack developer :computer:
 
-- :rocket:   I’m currently working at **Ideia Tecnologia**
+- :rocket:   I’m currently working at <a href="https://github.com/ideiasti">Ideia Tecnologia</a>
 - :purple_heart:   React Native (Expo)
 - :computer:   ReactJS (NextJS⚡️), Node, React Native (Expo), Typescript
 
