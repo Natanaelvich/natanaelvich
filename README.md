@@ -8,7 +8,7 @@ I'm a full stack developer :computer:
 
 - :rocket:   I’m currently working at <a href="https://github.com/ideiasti" rel=noopener target="_blank">Ideia Tecnologia</a>
 - :purple_heart:   React Native
-- :computer:   ReactJS (NextJS⚡️), Node, React Native, Typescript
+- :computer:   ReactJS (NextJS⚡️), React Native(Expo🤖), Node(ExpressJS, AdonisJS), Typescript
 
 
 <p align="center"> 
