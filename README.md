@@ -1,5 +1,5 @@
 # Natanael Lima
-[![Twitter Badge](https://img.shields.io/badge/-@Natanaelvich-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fhugoduarte)](https://twitter.com/fhugoduarte) [![Linkedin Badge](https://img.shields.io/badge/-Natanael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanael-lima%F0%9F%9A%80%F0%9F%94%A5-2618b418b/)](https://www.linkedin.com/in/hugo-duarte-3392bb153/) 
+[![Twitter Badge](https://img.shields.io/badge/-@Natanaelvich-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/fhugoduarte)](https://twitter.com/fhugoduarte) [![Linkedin Badge](https://img.shields.io/badge/-Natanael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanaelvich/)](https://www.linkedin.com/in/natanaelvich/) 
 [![Gmail Badge](https://img.shields.io/badge/-taelima1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taelima1997@gmail.com)](mailto:taelima1997@gmail.com)
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends
