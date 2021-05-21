@@ -10,6 +10,7 @@
 I'm a full stack developer :computer:
 
 - :rocket:   I’m currently working at <a href="https://github.com/ideiasti" rel=noopener target="_blank">Ideia Tecnologia</a>
+
 - :computer:   ReactJS (NextJS⚡️), React Native(Expo🤖), Node(ExpressJS, AdonisJS), Typescript
 
 
