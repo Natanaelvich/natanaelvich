@@ -9,7 +9,7 @@
 🔥I'm Natanael Lima 🚀⚡⚡
 I'm a full stack developer :computer:
 
-- :rocket:   I’m currently working at <a href="https://github.com/ideiasti" rel=noopener target="_blank">Ideia Tecnologia</a>
+- :rocket:   I’m currently working React Native Developer at - <a href="https://www.linkedin.com/company/bneempregos/" rel=noopener target="_blank">BNE - Banco Nacional de Empregos</a>
 
 - :computer:   ReactJS (NextJS⚡️), React Native(Expo🤖), Node(ExpressJS, AdonisJS), Typescript
 
