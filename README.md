@@ -20,7 +20,7 @@ I'm a full stack developer :computer:
 
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=natanaelvich&repo=won-games&show_owner=true&theme=dracula" alt="natanaelvich" /> 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=natanaelvich&repo=college-integrator-project-mobile&show_owner=true&theme=dracula" alt="natanaelvich" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natanaelvich&repo=chatpi-mobile&show_owner=true&theme=dracula"       alt="natanaelvich" />
 </p>
 
 
