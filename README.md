@@ -17,11 +17,3 @@ I'm a full stack developer :computer:
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=natanaelvich&show_icons=true&theme=dracula&count_private=true&show_icons=true" alt="natanaelvich" /> 
 </p>
-
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natanaelvich&repo=won-games&show_owner=true&theme=dracula" alt="natanaelvich" /> 
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=natanaelvich&repo=chatpi-mobile&show_owner=true&theme=dracula"       alt="natanaelvich" />
-</p>
-
-
-
