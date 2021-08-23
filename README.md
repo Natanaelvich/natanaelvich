@@ -11,7 +11,7 @@ I'm a full stack developer :computer:
 
 - :rocket:   I’m currently working React Native Developer at - <a href="https://www.linkedin.com/company/bneempregos/" rel=noopener target="_blank">BNE - Banco Nacional de Empregos</a>
 
-- :computer: My favorites 👉🏼 ReactJS (NextJS⚡️), React Native(Expo🤖), Node(ExpressJS, AdonisJS), Typescript
+- :computer: My favorites 👉🏼 ReactJS (NextJS⚡️), React Native 💜💜, Node(ExpressJS, AdonisJS), Typescript
 
 
 <p align="center"> 
