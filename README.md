@@ -26,7 +26,7 @@ I'm a full stack developer :computer:
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/Natanaelvich">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanaelvich&hide=java,html,tex&langs_count=3&theme=dracula" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Natanaelvich&hide=java,html,text,css,objective-c&langs_count=3&theme=dracula" />
 </a>
 <a href="https://github.com/Natanaelvich">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Natanaelvich&show_icons=true&theme=dracula&count_private=true&show_icons=true&line_height=27" />
