@@ -9,7 +9,7 @@
 🔥I'm Natanael Lima 🚀⚡
 I'm a full stack developer :computer: 📱
  
-- :rocket:   I’m currently working React Native Developer at - <a href="https://www.linkedin.com/company/bneempregos/" rel=noopener target="_blank">BNE - Banco Nacional de Empregos</a>
+- :rocket:   I’m currently working React & React Native Developer at - <a href="https://www.linkedin.com/company/bneempregos/" rel=noopener target="_blank">BNE - Banco Nacional de Empregos</a>
 
 - :computer: My favorites 👉🏼 ReactJS (NextJS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> ), React Native <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> , Node <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> (ExpressJS, AdonisJS),  Typescript <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
 
