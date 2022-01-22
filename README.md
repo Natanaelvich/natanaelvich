@@ -7,7 +7,7 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up
 🔥I'm Natanael Lima 🚀⚡
-I'm a full stack developer :computer: 📱
+I'm a full stack developer :computer: 📱 💾
  
 - :rocket:   I’m currently working React & React Native Developer at - <a href="https://www.linkedin.com/company/bneempregos/" rel=noopener target="_blank">BNE - Banco Nacional de Empregos</a>
 
