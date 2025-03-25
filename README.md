@@ -8,7 +8,7 @@
 🔥I'm Natanael Lima 🚀⚡
 I'm a Full Stack Developer and Tech Lead :computer: 📱 💾
 
-- :rocket:   I’m currently working Senior Software Engineer and Tech Lead ReactJS | React-native | NodeJS at - <a href="https://www.linkedin.com/company/abril/posts/?feedView=all" rel=noopener target="_blank">Grupo Abril</a>
+- :rocket:   I’m currently working Senior Software Engineer and Tech Lead ReactJS | React-native | NodeJS at - <a href="https://www.linkedin.com/company/abril/posts/?feedView=all" rel=noopener target="_blank">🌳 Grupo Abril</a>
 
 ### Languages
 - Typescript <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
