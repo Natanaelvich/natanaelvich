@@ -10,8 +10,10 @@ I'm a Tech Lead and Full Stack developer :computer: 📱 💾
  
 - :rocket:   I’m currently working Senior Full Stack Software Engineer and Tech Lead ReactJS | React-native | NodeJS at  <a href="https://www.linkedin.com/company/abril/posts/?feedView=all" rel=noopener target="_blank">🌳 Grupo Abril</a>
 
-- ReactJS (NextJS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> ), React Native (Expo) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> , NodeJS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> (ExpressJS, NestJS, PrismaORM, TypeORM),  Typescript <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
-
 <p align='center'>
  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=natanaelvich&theme=dark" alt="GitHub Streak" /></a>
 </p>
+
+- ReactJS (NextJS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> ), React Native (Expo) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> , NodeJS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> (ExpressJS, NestJS, PrismaORM, TypeORM),  Typescript <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
+
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i==javascript,html,css,react,nodejs,gcp,typescript,git,kubernetes,docker,reactnative,nextjs,nestjs,jira,postman,vscode&perline=4)](https://skillicons.dev)
