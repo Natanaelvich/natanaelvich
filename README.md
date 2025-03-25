@@ -13,5 +13,5 @@ I'm a Tech Lead and Full Stack developer :computer: 📱 💾
 - ReactJS (NextJS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> ), React Native (Expo) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> , NodeJS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> (ExpressJS, NestJS, PrismaORM, TypeORM),  Typescript <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
 
 <p align='center'>
- <img height="232em" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=natanaelvich&theme=dracula" alt="natanaelvich" />
+ <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=natanaelvich&theme=dark" alt="GitHub Streak" /></a>
 </p>
