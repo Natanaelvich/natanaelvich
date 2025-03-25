@@ -10,7 +10,22 @@ I'm a Full Stack Developer and Tech Lead :computer: 📱 💾
 
 - :rocket:   I’m currently working Senior Software Engineer and Tech Lead ReactJS | React-native | NodeJS at - <a href="https://www.linkedin.com/company/abril/posts/?feedView=all" rel=noopener target="_blank">Grupo Abril</a>
 
-- ReactJS (NextJS <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> ), React Native <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code> , Node <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code> (ExpressJS, NestJS, PrismaORM, TypeORM),  Typescript <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
+### Languages
+- Typescript <code><img height="20" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png"></code>
+
+### Frameworks
+- ReactJS (NextJS, ViteJS) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>, React Native (Expo, Bare workflow) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+- NodeJS (ExpressJS, NestJS, PrismaORM, TypeORM) <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+### Providers
+- Google cloud plataform (GCP)
+- Azure
+- AWS
+
+### Ai development
+- Cursor
+- V0
+- ChatGPT, Claude, Gemma
 
 <p align='center'>
  <img height="232em" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=natanaelvich&theme=dracula" alt="natanaelvich" />
