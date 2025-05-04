@@ -27,6 +27,8 @@ I'm a Full Stack Developer and Tech Lead :computer: 📱 💾
 - AWS
 
 ### Ai development
+- OpenAi API
+- Langchain
 - Cursor
 - V0
 - ChatGPT, Claude, Gemini
