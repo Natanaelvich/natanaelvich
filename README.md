@@ -1,38 +1,92 @@
-# Natanael Lima
+# 👋 Olá! Sou o Natanael
 
- [![Twitter Badge](https://img.shields.io/badge/-@Natanaelvich-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/natanaelvich)](https://twitter.com/natanaelvich) 
-[![Linkedin Badge](https://img.shields.io/badge/-Natanael-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/natanaelvich/)](https://www.linkedin.com/in/natanaelvich/) 
-[![Gmail Badge](https://img.shields.io/badge/-taelima1997@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:taelima1997@gmail.com)](mailto:taelima1997@gmail.com)
+**Engenheiro de Software Sênior e Tech Lead**, apaixonado por desenvolver soluções de alto impacto com **React, React Native e Node.js**.  
+Minha missão é construir software de qualidade, mentorar talentos e alinhar tecnologia aos objetivos de negócio.
 
-## What's up
-🔥I'm Natanael Lima 🚀⚡
-I'm a Full Stack Developer and Tech Lead :computer: 📱 💾
+---
 
-- :rocket:   I’m currently working Senior Software Engineer and Tech Lead ReactJS | React-native | NodeJS at - <a href="https://www.linkedin.com/company/abril/posts/?feedView=all" rel=noopener target="_blank">🌳 Grupo Abril</a>
+## 🔭 Atualmente
 
-### Languages
-- Typescript
-- Javascript
-- Python
-- PHP
+Sou **Engenheiro de Software Sênior / Tech Lead** no  
+[🌳 Grupo Abril](#) <!-- Substitua o # pela URL correta quando desejar -->
 
-### Frameworks
-- ReactJS (NextJS, ViteJS)
-- NodeJS (ExpressJS, NestJS, PrismaORM, TypeORM)
-- React Native (Expo)
+---
 
-### Providers
-- Google cloud plataform (GCP)
-- Azure
-- AWS
+## 🌱 Sempre aprendendo
 
-### Ai development
-- OpenAi API
-- Langchain
-- Cursor
-- V0
-- ChatGPT, Claude, Gemini
+Explorando novas tecnologias, especialmente no universo da **IA**.
 
-<p align='center'>
- <img height="232em" align="center" src="http://github-readme-streak-stats.herokuapp.com?user=natanaelvich&theme=dracula" alt="natanaelvich" />
-</p>
+📫 **Contato:** taelima1997@gmail.com ou pelas redes acima!
+
+---
+
+## 🚀 Minha Expertise Resumida
+
+Como Engenheiro de Software Sênior e Tech Lead, possuo sólida experiência no ciclo completo de desenvolvimento, aplicando conhecimentos em:
+
+### 📱 Desenvolvimento Mobile (React Native)
+Criação de aplicativos móveis multiplataforma com foco em:
+- Interfaces de usuário ricas
+- Performance otimizada
+- Integração com recursos nativos
+
+### 💻 Desenvolvimento Frontend Web (React)
+Desenvolvimento de aplicações web:
+- Responsivas e interativas
+- Desde landing pages a dashboards complexos
+- Foco em UX e performance
+
+### ⚙️ Desenvolvimento Backend (Node.js)
+Construção de APIs RESTful:
+- Robusta e escalável (Express.js, NestJS)
+- Integração entre sistemas
+- Bancos de dados relacionais e NoSQL
+
+### 🌟 Liderança e Boas Práticas
+- Liderança técnica de equipes
+- Mentoria de desenvolvedores
+- Clean Code, Clean Architecture, TDD e DDD
+
+### 🌍 Visão de Negócio e Setorial
+- Tradução de requisitos de negócio em soluções técnicas
+- Experiência nos setores: **Mídia, Agroindústria, Rastreamento, Recrutamento e Imobiliário**
+
+---
+
+## 🛠️ Stack Principal & Ferramentas
+
+### **Linguagens**
+TypeScript, JavaScript, Python, PHP
+
+### **Frameworks e Bibliotecas**
+- **Frontend**: ReactJS (Next.js, Vite.js), React Native (Expo)
+- **Backend**: Node.js (Express.js, NestJS), PrismaORM, TypeORM
+- **Testes**: Jest, React Testing Library, Cypress
+
+### **Plataformas Cloud & DevOps**
+Google Cloud Platform (GCP), Azure, AWS  
+CI/CD: GitHub Actions, Jenkins
+
+### **Desenvolvimento com IA**
+OpenAI API, Langchain, Cursor, v0.dev
+
+### **Metodologias e Princípios**
+Clean Code, Clean Architecture, TDD, DDD  
+APIs RESTful, GraphQL  
+Metodologias Ágeis
+
+---
+
+## ✨ Destaques da Carreira
+
+- **Liderança Técnica no Grupo Abril**  
+  Guiando decisões técnicas e equipes para implementar soluções robustas e inovadoras.
+
+- **Soluções para Agroindústria na COAMO**  
+  Liderança no desenvolvimento de sistemas de frete com React, React Native e Node.js.
+
+- **Otimização de Coleta de Documentos no BNE**  
+  Desenvolvimento e otimização de soluções, colaborando diretamente com o negócio.
+
+- **Aplicações de Rastreamento na CTracker**  
+  Desenvolvimento de apps React Native para gerenciamento e rastreamento veicular.
