@@ -12,6 +12,7 @@ Lidero times e entrego produtos em produção no [**Grupo Abril**](https://www.g
 
 ## Impacto
 
+- **Solunorde** — Fundador. Software sob medida, apps e automação com IA para empresas ([solunorde.com.br](https://www.solunorde.com.br))
 - **Grupo Abril** — Liderança técnica em apps mobile e serviços em escala nacional, com deploy automatizado e monitoramento em produção
 - **COAMO Agroindustrial** — Apps e sistemas críticos para frotas no setor agroindustrial (Azure, CI/CD)
 - **BNE** — Plataforma web e mobile de gestão documental, do zero à produção
@@ -45,5 +46,6 @@ Tech Lead com **7+ anos** construindo produtos digitais — mobile-first, offlin
 Foco em mentoria, arquitetura escalável e **IA aplicada a produto**.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-natanaelsilvalima.dev.br-0ea5e9?style=flat-square)](https://www.natanaelsilvalima.dev.br)
+[![Solunorde](https://img.shields.io/badge/Solunorde-solunorde.com.br-16a34a?style=flat-square)](https://www.solunorde.com.br)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Natanaelvich-0A66C2?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/natanaelvich/)
 [![Email](https://img.shields.io/badge/Email-taelima1997%40gmail.com-EA4335?style=flat-square&logo=gmail)](mailto:taelima1997@gmail.com)
