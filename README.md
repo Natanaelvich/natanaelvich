@@ -4,7 +4,7 @@
 
 Sou Full Stack Tech Lead no Grupo Abril desde outubro de 2023, trabalhando de forma remota a partir de Timbiras, no Maranhão. No dia a dia lidero o desenvolvimento com React Native, Node.js e TypeScript.
 
-Também sou fundador da Solunorde, onde publico apps próprios. Hoje são 6 na App Store e 4 na Google Play, e eu cuido de tudo: produto, código, publicação e suporte.
+Também sou fundador da Solunorde, onde publico apps próprios. Hoje são 7, todos na App Store e na Google Play, e eu cuido de tudo: produto, código, publicação e suporte.
 
 ## Apps que publiquei
 
@@ -24,6 +24,11 @@ Também sou fundador da Solunorde, onde publico apps próprios. Hoje são 6 na A
       <a href="https://www.solunorde.com.br/torlyn"><img src="assets/torlyn.png" width="64" alt="Torlyn"></a><br>
       <b><a href="https://www.solunorde.com.br/torlyn">Torlyn</a></b><br>
       <sub>Treino com IA, publicado em 19/10/2026</sub>
+    </td>
+    <td align="center" width="170">
+      <a href="https://www.solunorde.com.br/zombienorde"><img src="assets/zombienorde.png" width="64" alt="ZombieNorde"></a><br>
+      <b><a href="https://www.solunorde.com.br/zombienorde">ZombieNorde</a></b><br>
+      <sub>Jogo de zumbi no sertão nordestino</sub>
     </td>
   </tr>
   <tr>
